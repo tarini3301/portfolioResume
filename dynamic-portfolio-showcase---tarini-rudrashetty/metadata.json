@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic Portfolio Showcase - Tarini Rudrashetty",
+  "description": "A dynamic portfolio website for Tarini Rudrashetty, built with React, Tailwind CSS. Showcases skills, projects, experience, and includes an AI-powered resume query feature using Gemini API.",
+  "requestFramePermissions": []
+}
